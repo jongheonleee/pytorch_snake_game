@@ -2,6 +2,13 @@
 
 <br>
 
+### Preview
+
+- <img src="https://github.com/user-attachments/assets/44e6dc0a-e814-4567-b6a7-65d92e1524c4" width="500" height="500"/>
+
+
+<br>
+
 ### Reference
 - Deep Q Learning?
 - https://wikidocs.net/164374
