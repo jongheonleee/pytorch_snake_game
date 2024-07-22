@@ -1,5 +1,16 @@
 # pytorch_snake_game
 
+<br>
+
+### Reference
+- Deep Q Learning?
+- https://wikidocs.net/164374
+- https://www.freecodecamp.org/news/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe/
+- https://www.freecodecamp.org/news/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8/
+- https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a
+
+<br>
+
 ### Theroy 
 
 - <img src="https://github.com/user-attachments/assets/44e6dc0a-e814-4567-b6a7-65d92e1524c4" width="500" height="500"/>
